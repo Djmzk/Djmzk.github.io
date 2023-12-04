@@ -92,7 +92,7 @@ header .navbar {
 }
 
 .hero-section .content button {
-  background: #fff;
+  background: #000000;
   padding: 12px 30px;
   border: none;
   font-size: 1rem;
@@ -181,4 +181,80 @@ header .navbar {
   .hero-section .content button {
     padding: 9px 18px;
   }
+}
+/* .satu { 
+  width: 106px;
+  height: 96px;
+ } */
+/* .satu h2 { 
+  position: fixed;
+  top: 50rem;
+  left: 100rem;
+  font-family: "Poppins-BlackBoldItalic", Helvetica;
+  font-weight: 600;
+  font-style: italic;
+  color: #000000;
+  font-size: 90px;
+  letter-spacing: 0;
+  line-height: normal;
+} */
+.nomer-harum h2 {
+  color: #000000;
+  font-family: "Poppins-BlackBoldItalic", Helvetica;
+  font-size: 5rem;
+  font-weight: 400;
+  height: 15.2rem;
+  left: 100rem;
+  line-height: 1.805;
+  position: absolute;
+  top: 48.25rem;
+  white-space: nowrap;
+  width: 10.4rem;
+}
+.nomer-harum h1 {
+  color: #000000;
+  font-family: "Poppins-BlackBoldItalic", Helvetica;
+  font-size: 7rem;
+  font-weight: 400;
+  height: 15.6rem;
+  display: flex;
+  right: 35rem;
+  line-height: 1.2125;
+  position: absolute;
+  top: 65rem;
+  white-space: nowrap;
+  width: 36.4rem;
+}
+
+.box {
+  position: relative;
+  width: 426px;
+  height: 594px;
+  top: 20rem;
+  left: 15rem;
+  background-color: #ffffff;
+  border-radius: 15px;
+  border: 1px solid;
+  border-color: #000000;
+}
+.box2 {
+  height: 546px;
+  width: 420px;
+  position: relative; /* tambahkan properti position: relative; */
+  width: 430px;
+  height: 556px;
+  top: 80rem; /* tambahkan satuan px untuk nilai top */
+  left: 20rem;
+  object-fit: cover;
+  position: absolute; /* tambahkan properti position: absolute; */
+  border-radius: 15px;
+}
+
+.box2 .box2-f {
+  width: 430px;
+  height: 556px;
+  top: 20px; /* tambahkan satuan px untuk nilai top */
+  border-radius: 15px;
+  object-fit: cover;
+  position: absolute; /* tambahkan properti position: absolute; */
 }
