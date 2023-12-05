@@ -221,7 +221,7 @@ header .navbar {
   right: 35rem;
   line-height: 1.2125;
   position: absolute;
-  top: 65rem;
+  top: 62rem;
   white-space: nowrap;
   width: 36.4rem;
 }
@@ -257,4 +257,80 @@ header .navbar {
   border-radius: 15px;
   object-fit: cover;
   position: absolute; /* tambahkan properti position: absolute; */
+}
+.sosial-media {
+  width: 47px;
+  height: 40px;
+  font-size: 3.7rem;
+}
+
+.sosial-media .github {
+  position: relative;
+  left: 50rem;
+  line-height: 1rem; /* Adjust the value to set the height */
+}
+.sosial-media .ig {
+  position: relative;
+  left: 50rem;
+  line-height: 3rem;
+}
+.nama {
+  width: 281px;
+  height: 56px;
+}
+.nama .titel-nama {
+  width: 281px;
+  top: 81rem;
+  left: 70rem;
+  font-family: "Poppins-BlackBold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.biodata {
+  width: 523px;
+  height: 222px;
+}
+
+.biodata .text-bio {
+  width: 523px;
+  position: absolute; /* Position relative to the .biodata container */
+  top: 88rem; /* Adjust the value as needed (reduce for higher position) */
+  left: 67rem; /* Adjust the value as needed (reduce for more to the left) */
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.garis {
+  width: 1px;
+  height: 394px;
+}
+.garis .garis-v {
+  position: absolute;
+  top: 85rem;
+  left: 106rem;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.nomer-harum2 h2 {
+  color: #000000;
+  font-family: "Poppins-BlackBoldItalic", Helvetica;
+  font-size: 5rem;
+  font-weight: 400;
+  height: 15.2rem;
+  left: 100rem;
+  line-height: 1.805;
+  position: absolute;
+  top: 112rem;
+  white-space: nowrap;
+  width: 10.4rem;
 }
