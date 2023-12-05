@@ -207,7 +207,7 @@ header .navbar {
   left: 100rem;
   line-height: 1.805;
   position: absolute;
-  top: 48.25rem;
+  top: 45.25rem;
   white-space: nowrap;
   width: 10.4rem;
 }
@@ -257,6 +257,7 @@ header .navbar {
   border-radius: 15px;
   object-fit: cover;
   position: absolute; /* tambahkan properti position: absolute; */
+  box-shadow: #8a8383 10px 10px 10px;
 }
 .sosial-media {
   width: 47px;
@@ -333,4 +334,19 @@ header .navbar {
   top: 112rem;
   white-space: nowrap;
   width: 10.4rem;
+}
+
+.nomer-harum3 h1 {
+  color: #000000;
+  font-family: "Poppins-BlackBoldItalic", Helvetica;
+  font-size: 7rem;
+  font-weight: 400;
+  height: 15.6rem;
+  display: flex;
+  right: 35rem;
+  line-height: 1.2125;
+  position: absolute;
+  top: 135rem;
+  white-space: nowrap;
+  width: 36.4rem;
 }
