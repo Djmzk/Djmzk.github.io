@@ -581,3 +581,11 @@ header .navbar {
   text-decoration: none;
 }
 /* end project */
+.sosial-media a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.sosial-media a:hover {
+  color: inherit;
+}
