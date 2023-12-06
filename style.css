@@ -346,7 +346,238 @@ header .navbar {
   right: 35rem;
   line-height: 1.2125;
   position: absolute;
-  top: 135rem;
+  top: 140rem;
   white-space: nowrap;
   width: 36.4rem;
 }
+.nomer-harum3 h2 {
+  color: #000000;
+  font-family: "Poppins-BlackBoldItalic", Helvetica;
+  font-size: 5rem;
+  font-weight: 400;
+  height: 15.2rem;
+  left: 100rem;
+  line-height: 1.805;
+  position: absolute;
+  top: 200rem;
+  white-space: nowrap;
+  width: 10.4rem;
+}
+
+/* project */
+.project-1 .componen {
+  width: 514px;
+  height: 647px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 25px;
+  position: absolute;
+  top: 155rem; /* Adjust this value as needed */
+  left: 45rem;
+}
+
+.project-1 .componen .box-pro {
+  position: absolute;
+  width: 514px;
+  height: 249px;
+  top: 0rem;
+  left: 0rem;
+  object-fit: cover;
+  border-radius: 25px 25px 0px 0px;
+}
+
+.project-1 .componen .text-pro {
+  position: absolute;
+  top: 275px;
+  left: 2rem;
+  font-family: "Poppins-BlackBoldItalic", Helvetica;
+  font-weight: 400;
+  font-size: 32px;
+  color: #000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.project-1 .componen .para-pro {
+  position: absolute;
+  width: 405px;
+  top: 405px;
+  left: 2rem;
+  font-family: "Poppins-BlackBoldItalic", Helvetica;
+  font-weight: 400;
+  color: #000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.project-1 .componen .overlap-group {
+  position: absolute;
+  width: 171px;
+  height: 60px;
+  top: 34rem;
+  left: 2rem;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 12px;
+}
+
+.project-1 .componen .text-wrapper-1 {
+  position: absolute;
+  top: 20px;
+  left: 3rem;
+  font-family: "Kokoro-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: none;
+}
+/* end project */
+.project-3 .componen3 {
+  width: 514px;
+  height: 647px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 25px;
+  position: absolute;
+  top: 155rem; /* Adjust this value as needed */
+  left: 80rem;
+}
+
+.project-3 .componen3 .box-pro3 {
+  position: absolute;
+  width: 514px;
+  height: 249px;
+  top: 0rem;
+  left: 0rem;
+  object-fit: cover;
+  border-radius: 25px 25px 0px 0px;
+}
+
+.project-3 .componen3 .text-pro3 {
+  position: absolute;
+  top: 275px;
+  left: 2rem;
+  font-family: "Poppins-BlackBoldItalic", Helvetica;
+  font-weight: 400;
+  font-size: 32px;
+  color: #000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.project-3 .componen3 .para-pro3 {
+  position: absolute;
+  width: 405px;
+  top: 405px;
+  left: 2rem;
+  font-family: "Poppins-BlackBoldItalic", Helvetica;
+  font-weight: 400;
+  color: #000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.project-3 .componen3 .overlap-group3 {
+  position: absolute;
+  width: 171px;
+  height: 60px;
+  top: 34rem;
+  left: 2rem;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 12px;
+}
+
+.project-3 .componen3 .text-wrapper-3 {
+  position: absolute;
+  top: 20px;
+  left: 3rem;
+  font-family: "Kokoro-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: none;
+}
+/* end project */
+.project-2 .componen2 {
+  width: 514px;
+  height: 647px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 25px;
+  position: absolute;
+  top: 155rem; /* Adjust this value as needed */
+  left: 10rem;
+}
+
+.project-2 .componen2 .box-pro2 {
+  position: absolute;
+  width: 514px;
+  height: 249px;
+  top: 0rem;
+  left: 0rem;
+  object-fit: cover;
+  border-radius: 25px 25px 0px 0px;
+}
+
+.project-2 .componen2 .text-pro2 {
+  position: absolute;
+  top: 275px;
+  left: 2rem;
+  font-family: "Poppins-BlackBoldItalic", Helvetica;
+  font-weight: 400;
+  font-size: 32px;
+  color: #000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.project-2 .componen2 .para-pro2 {
+  position: absolute;
+  width: 405px;
+  top: 405px;
+  left: 2rem;
+  font-family: "Poppins-BlackBoldItalic", Helvetica;
+  font-weight: 400;
+  color: #000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.project-2 .componen2 .overlap-group2 {
+  position: absolute;
+  width: 171px;
+  height: 60px;
+  top: 34rem;
+  left: 2rem;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 12px;
+}
+
+.project-2 .componen2 .text-wrapper-2 {
+  position: absolute;
+  top: 20px;
+  left: 3rem;
+  font-family: "Kokoro-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: none;
+}
+/* end project */
